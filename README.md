@@ -3,7 +3,45 @@
 <p>The set of&nbsp;<a href="https://en.wikipedia.org/wiki/JQuery#Features">jQuery core features</a>&mdash;DOM element selections, traversal and manipulation&mdash;enabled by its&nbsp;<em>selector engine</em>&nbsp;(named "Sizzle" from v1.3), created a new "programming style", fusing algorithms and DOM data structures. This style influenced the architecture of other&nbsp;<a title="Comparison of JavaScript frameworks" href="https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks">JavaScript frameworks</a>&nbsp;like&nbsp;<a title="YUI Library" href="https://en.wikipedia.org/wiki/YUI_Library">YUI v3</a>&nbsp;and&nbsp;<a title="Dojo Toolkit" href="https://en.wikipedia.org/wiki/Dojo_Toolkit">Dojo</a>, later stimulating the creation of the standard&nbsp;<em>Selectors API</em>.&nbsp;Later, this style has been enhanced with a deeper algorithm-data fusion in an heir of jQuery, the&nbsp;<a title="D3.js" href="https://en.wikipedia.org/wiki/D3.js">D3.js</a>&nbsp;framework.</p>
 <p><a title="Microsoft" href="https://en.wikipedia.org/wiki/Microsoft">Microsoft</a>&nbsp;and&nbsp;<a title="Nokia" href="https://en.wikipedia.org/wiki/Nokia">Nokia</a>&nbsp;bundle jQuery on their platforms.&nbsp;Microsoft includes it with&nbsp;<a title="Microsoft Visual Studio" href="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio">Visual Studio</a>&nbsp;for use within Microsoft's&nbsp;<a title="ASP.NET AJAX" href="https://en.wikipedia.org/wiki/ASP.NET_AJAX">ASP.NET AJAX</a>&nbsp;and&nbsp;<a title="ASP.NET MVC" href="https://en.wikipedia.org/wiki/ASP.NET_MVC">ASP.NET MVC</a>&nbsp;frameworks while Nokia has integrated it into the Web Run-Time widget development platform.</p>
 
+</br>
 
+<div class="toctitle" dir="ltr" lang="en">
+<h2 id="mw-toc-heading">Contents</h2>
+<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Popularity"><span class="toctext">Popularity</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Features"><span class="toctext">Features</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Browser_support"><span class="toctext">Browser support</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Distribution"><span class="toctext">Distribution</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Interface"><span class="toctext">Interface</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Functions"><span class="toctext">Functions</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#jQuery_methods"><span class="toctext">jQuery methods</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Static_utilities"><span class="toctext">Static utilities</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#No-conflict_mode"><span class="toctext">No-conflict mode</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Typical_start-point"><span class="toctext">Typical start-point</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Chaining"><span class="toctext">Chaining</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Creating_new_DOM_elements"><span class="toctext">Creating new DOM elements</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Ajax"><span class="toctext">Ajax</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#jQuery_plug-ins"><span class="toctext">jQuery plug-ins</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Release_history"><span class="toctext">Release history</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Testing_framework"><span class="toctext">Testing framework</span></a></li>
+</ul>
+
+</br>
 
 
 
