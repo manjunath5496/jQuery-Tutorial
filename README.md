@@ -45,7 +45,7 @@
 </tr>
 <tr>
 <th scope="row"><a title="Computing platform" href="https://en.wikipedia.org/wiki/Computing_platform">Platform</a></th>
-<td>See&nbsp;<a href="https://en.wikipedia.org/wiki/JQuery#Browser_support">&sect;&nbsp;Browser support</a></td>
+<td>See&nbsp;<a href="#Browser_support">&sect;&nbsp;Browser support</a></td>
 </tr>
 <tr>
 <th scope="row"><a title="File size" href="https://en.wikipedia.org/wiki/File_size">Size</a></th>
