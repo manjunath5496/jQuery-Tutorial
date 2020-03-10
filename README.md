@@ -5,6 +5,69 @@
 
 </br>
 
+
+<table class="infobox vevent">
+<tbody>
+<tr>
+<td colspan="2"><a class="image" href="JQuery_logo.png"><img src="JQuery_logo.png" srcset="JQuery_logo.png" alt="JQuery logo.svg" width="220" height="54" data-file-width="524" data-file-height="128" /></a></td>
+</tr>
+<tr>
+<th scope="row"><a class="mw-redirect" title="" href="https://en.wikipedia.org/wiki/Software_developer">Original author(s)</a></th>
+<td><a title="John Resig" href="https://en.wikipedia.org/wiki/John_Resig">John Resig</a></td>
+</tr>
+<tr>
+<th scope="row"><a class="mw-redirect" title="Software developer" href="https://en.wikipedia.org/wiki/Software_developer">Developer(s)</a></th>
+<td><a class="external text" href="https://jquery.org/team/" rel="nofollow">The jQuery Team</a></td>
+</tr>
+<tr>
+<th scope="row">Initial release</th>
+<td>August&nbsp;26, 2006<span class="noprint">; 13 years ago</span></td>
+</tr>
+<tr>
+<th scope="row"><a title="Software release life cycle" href="https://en.wikipedia.org/wiki/Software_release_life_cycle">Stable release</a></th>
+<td>
+<div>3.4.1 / (May&nbsp;1, 2019<span class="noprint">; 10 months ago</span>)</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a title="Repository (version control)" href="https://en.wikipedia.org/wiki/Repository_(version_control)">Repository</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><span class="url"><a class="external text" href="https://github.com/jquery/jquery" rel="nofollow">github<wbr />.com<wbr />/jquery<wbr />/jquery</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Written in</th>
+<td><a title="JavaScript" href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Computing platform" href="https://en.wikipedia.org/wiki/Computing_platform">Platform</a></th>
+<td>See&nbsp;<a href="https://en.wikipedia.org/wiki/JQuery#Browser_support">&sect;&nbsp;Browser support</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="File size" href="https://en.wikipedia.org/wiki/File_size">Size</a></th>
+<td>30&ndash;263 KB</td>
+</tr>
+<tr>
+<th scope="row"><a title="Software categories" href="https://en.wikipedia.org/wiki/Software_categories#Categorization_approaches">Type</a></th>
+<td><a title="JavaScript library" href="https://en.wikipedia.org/wiki/JavaScript_library">JavaScript library</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Software license" href="https://en.wikipedia.org/wiki/Software_license">License</a></th>
+<td><a title="MIT License" href="https://en.wikipedia.org/wiki/MIT_License">MIT</a></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a class="external text" href="https://jquery.com/" rel="nofollow">jquery<wbr />.com</a></span></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
 <div class="toctitle" dir="ltr" lang="en">
 <h2 id="mw-toc-heading">Contents</h2>
 <label class="toctogglelabel" for="toctogglecheckbox"></label></div>
