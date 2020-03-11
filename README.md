@@ -102,6 +102,7 @@
 <li class="toclevel-1 tocsection-16"><a href="#jQuery_plug-ins"><span class="toctext">jQuery plug-ins</span></a></li>
 <li class="toclevel-1 tocsection-17"><a href="#Release_history"><span class="toctext">Release history</span></a></li>
 <li class="toclevel-1 tocsection-18"><a href="#Testing_framework"><span class="toctext">Testing framework</span></a></li>
+ <li class="toclevel-1 tocsection-19"><a href="#Books"><span class="toctext">Books</span></a></li>
 </ul>
 
 </br>
@@ -429,5 +430,74 @@
 <h2><span id="Testing_framework" class="mw-headline">Testing framework</span></h2>
 <p><a title="QUnit" href="https://en.wikipedia.org/wiki/QUnit">QUnit</a>&nbsp;is a&nbsp;<a class="mw-redirect" title="Test automation framework" href="https://en.wikipedia.org/wiki/Test_automation_framework">test automation framework</a>&nbsp;used to test the jQuery project. The jQuery team developed it as an in-house unit testing library.&nbsp;The jQuery team uses it to test its code and plugins, but it can test any generic JavaScript code, including server-side JavaScript code.</p>
 <p>As of 2011, the jQuery Testing Team uses&nbsp;<a title="QUnit" href="https://en.wikipedia.org/wiki/QUnit">QUnit</a>&nbsp;with&nbsp;<a class="new" title="TestSwarm (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=TestSwarm&amp;action=edit&amp;redlink=1">TestSwarm</a>&nbsp;to test each jQuery codebase release.</p>
+</br>
+
+<h2 id ="Books">Books </h2>
+<ul>
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(6).pdf" style="text-decoration:none;">A Smarter Way to Learn JavaScript: The new approach that uses technology to cut your effort in half</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(7).pdf" style="text-decoration:none;">Beginning jQuery 2 for ASP.NET Developers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(8).pdf" style="text-decoration:none;">Beginning jQuery: From the Basics of jQuery to Writing your Own Plug-ins</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(9).pdf" style="text-decoration:none;">A Simple Start to jQuery, JavaScript, and Html5 for Beginners</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(10).pdf" style="text-decoration:none;">JavaScript and jQuery: The Missing Manual</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(11).pdf" style="text-decoration:none;">Joomla! 1.5 JavaScript jQuery</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(12).pdf" style="text-decoration:none;">Visual QuickStart Guide: jQuery</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(13).pdf" style="text-decoration:none;">jQuery 1.4 Animation Techniques</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(14).pdf" style="text-decoration:none;">PHP Pocket Reference</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(15).pdf" style="text-decoration:none;">jQuery Essentials</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(16).pdf" style="text-decoration:none;">JQuery for Beginners: Your Guide to Easily Learn JQuery Programming In 24 Hours</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(17).pdf" style="text-decoration:none;">jQuery For Dummies</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(18).pdf" style="text-decoration:none;">jQuery Game Development Essentials</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(19).pdf" style="text-decoration:none;">jQuery Hotshot</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(20).pdf" style="text-decoration:none;">jQuery Mobile Cookbook</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(21).pdf" style="text-decoration:none;">jQuery Mobile Web Development Essentials</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(22).pdf" style="text-decoration:none;">jQuery UI 1.6: The User Interface Library for jQuery</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(23).pdf" style="text-decoration:none;">jQuery UI 1.8: The User Interface Library for jQuery</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(24).pdf" style="text-decoration:none;">jQuery UI 1.10: The User Interface Library for jQuery</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(25).pdf" style="text-decoration:none;">jQuery UI in Action</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(26).pdf" style="text-decoration:none;">Jquery UI in Action : Master the Concepts of Jquery</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(27).pdf" style="text-decoration:none;">jQuery: Novice to Ninja: New Kicks And Tricks</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(28).pdf" style="text-decoration:none;">jQuery: Ajax Made Easy</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(29).pdf" style="text-decoration:none;">jQuery Cookbook</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(30).pdf" style="text-decoration:none;">Learning jQuery</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(31).pdf" style="text-decoration:none;">Mastering jQuery</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(32).pdf" style="text-decoration:none;">Practical jQuery</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(33).pdf" style="text-decoration:none;">Pro jQuery in Oracle Application Express</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(34).pdf" style="text-decoration:none;">Pro PHP and jQuery</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(35).pdf" style="text-decoration:none;">Professional jQuery</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(36).pdf" style="text-decoration:none;">Smashing JQuery</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(37).pdf" style="text-decoration:none;">Wordpress 3.0 jQuery</a></li>
+
+
+
+
+</ul>
+
+</br>
+
+
+
+
 
 
