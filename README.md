@@ -448,7 +448,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(12).pdf" style="text-decoration:none;">Visual QuickStart Guide: jQuery</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(13).pdf" style="text-decoration:none;">jQuery 1.4 Animation Techniques</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(14).pdf" style="text-decoration:none;">PHP Pocket Reference</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(14).pdf" style="text-decoration:none;">ASP.NET jQuery Cookbook</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(15).pdf" style="text-decoration:none;">jQuery Essentials</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(16).pdf" style="text-decoration:none;">JQuery for Beginners: Your Guide to Easily Learn JQuery Programming In 24 Hours</a></li>
@@ -489,7 +489,20 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(36).pdf" style="text-decoration:none;">Smashing JQuery</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(37).pdf" style="text-decoration:none;">Wordpress 3.0 jQuery</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(38).pdf" style="text-decoration:none;">jQuery and JavaScript Phrasebook</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(39).pdf" style="text-decoration:none;">jQuery Mobile Web Development Essentials</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(40).pdf" style="text-decoration:none;">jQuery Pocket Reference</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(41).pdf" style="text-decoration:none;">jQuery Recipes</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(42).pdf" style="text-decoration:none;">jQuery Succinctly</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(43).pdf" style="text-decoration:none;">The jQuery UI CSS Framework and ThemeRoller</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(44).pdf" style="text-decoration:none;">Mastering jQuery UI</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(45).pdf" style="text-decoration:none;">ccccc</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(46).pdf" style="text-decoration:none;">Beyond jQuery</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(47).pdf" style="text-decoration:none;">jQuery Mobile: Up and Running</a></li>
 
 
 </ul>
