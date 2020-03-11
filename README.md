@@ -142,7 +142,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(3).pdf" style="text-decoration:none;">Secrets of the JavaScript Ninja</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(4).pdf" style="text-decoration:none;">Pro JavaScript Techniques</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(5).pdf" style="text-decoration:none;">A Framework for Mining Instant Messaging Services</a></li>
-
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(61).pdf" style="text-decoration:none;">Interview with John Resig, jQuery Creator</a></li>
 </ul>
 
 </br>
