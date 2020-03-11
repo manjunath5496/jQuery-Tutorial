@@ -508,7 +508,8 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(49).pdf" style="text-decoration:none;">jQuery 1.4 Plugin Development</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(50).pdf" style="text-decoration:none;">jQuery Pocket Primer</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(51).pdf" style="text-decoration:none;">Pro SharePoint with jQuery</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(51).pdf" style="text-decoration:none;">Pro SharePoint with jQuery</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(52).pdf" style="text-decoration:none;">The Joy of jQuery: A Beginner's Guide to the World's Most Popular Javascript Library</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(53).pdf" style="text-decoration:none;">Professional XMPP Programming with JavaScript and jQuery</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(54).pdf" style="text-decoration:none;">Sams Teach Yourself jQuery Mobile in 24 Hours</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(55).pdf" style="text-decoration:none;">Smashing JQuery</a></li>
