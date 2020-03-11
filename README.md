@@ -499,11 +499,17 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(43).pdf" style="text-decoration:none;">The jQuery UI CSS Framework and ThemeRoller</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(44).pdf" style="text-decoration:none;">Mastering jQuery UI</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(45).pdf" style="text-decoration:none;">ccccc</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(45).pdf" style="text-decoration:none;">Creating Mobile Apps with jQuery Mobile</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(46).pdf" style="text-decoration:none;">Beyond jQuery</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(47).pdf" style="text-decoration:none;">jQuery Mobile: Up and Running</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(48).pdf" style="text-decoration:none;">jQuery 2.0 Development Cookbook</a></li>  
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(49).pdf" style="text-decoration:none;">Mastering jQuery UI</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(45).pdf" style="text-decoration:none;">Creating Mobile Apps with jQuery Mobile</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(46).pdf" style="text-decoration:none;">Beyond jQuery</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(47).pdf" style="text-decoration:none;">jQuery Mobile: Up and Running</a></li>
 
 </ul>
 
