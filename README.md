@@ -505,11 +505,23 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(47).pdf" style="text-decoration:none;">jQuery Mobile: Up and Running</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(48).pdf" style="text-decoration:none;">jQuery 2.0 Development Cookbook</a></li>  
  
-<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(49).pdf" style="text-decoration:none;">Mastering jQuery UI</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(45).pdf" style="text-decoration:none;">Creating Mobile Apps with jQuery Mobile</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(49).pdf" style="text-decoration:none;">jQuery 1.4 Plugin Development</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(50).pdf" style="text-decoration:none;">jQuery Pocket Primer</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(46).pdf" style="text-decoration:none;">Beyond jQuery</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(47).pdf" style="text-decoration:none;">jQuery Mobile: Up and Running</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(51).pdf" style="text-decoration:none;">Pro SharePoint with jQuery</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(53).pdf" style="text-decoration:none;">Professional XMPP Programming with JavaScript and jQuery</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(54).pdf" style="text-decoration:none;">Sams Teach Yourself jQuery Mobile in 24 Hours</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(55).pdf" style="text-decoration:none;">Smashing JQuery</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(56).pdf" style="text-decoration:none;">A Software Engineer Learns HTML5, JavaScript and jQuery</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(57).pdf" style="text-decoration:none;">CoffeeScript Programming with jQuery, Rails, and Node.js</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(58).pdf" style="text-decoration:none;">A Software Engineer Learns HTML5, JavaScript and jQuery</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(59).pdf" style="text-decoration:none;">Extending jQuery</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(60).pdf" style="text-decoration:none;">Introduction to jQuery</a></li>
+
+
 
 </ul>
 
