@@ -118,6 +118,37 @@
 <li>Extensibility: New events, elements, and methods can be easily added and then reused as a plugin.</li>
 </ul>
 <h2><span id="History" class="mw-headline">History</span></h2>
+
+
+<table class="infobox biography vcard" style="width: 228px;">
+<tbody>
+<tr>
+<td style="width: 20px;" colspan="2"><a class="image" href="Jresig.png"><img src="Jresig.png" srcset="Jresig.png" alt="Jresig.png" width="220" height="223" data-file-width="429" data-file-height="435" /></a>
+<div>John Resig in 2008</div>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+</br>
+<h2>Publications </h2>
+<ul>
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(1).pdf" style="text-decoration:none;">Extracting Social Networks from Instant Messaging Populations</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(2).pdf" style="text-decoration:none;">IMSCAN: An Algorithmic Framework for Mining Instant Messaging Networks</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(3).pdf" style="text-decoration:none;">Secrets of the JavaScript Ninja</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(4).pdf" style="text-decoration:none;">Pro JavaScript Techniques</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(5).pdf" style="text-decoration:none;">A Framework for Mining Instant Messaging Services</a></li>
+
+</ul>
+
+</br>
+
+
+
+
 <p>jQuery was originally created in January 2006 at&nbsp;<a title="BarCamp" href="https://en.wikipedia.org/wiki/BarCamp">BarCamp</a>&nbsp;NYC by&nbsp;<a title="John Resig" href="https://en.wikipedia.org/wiki/John_Resig">John Resig</a>, influenced by Dean Edwards' earlier&nbsp;<a title="CssQuery" href="https://en.wikipedia.org/wiki/CssQuery">cssQuery</a>&nbsp;library. It is currently maintained by a team of developers led by Timmy Willison (with the jQuery selector engine, Sizzle, being led by Richard Gibson).</p>
 <p>jQuery was originally licensed under the&nbsp;<a class="mw-redirect" title="CC BY-SA 2.5" href="https://en.wikipedia.org/wiki/CC_BY-SA_2.5">CC BY-SA 2.5</a>, and&nbsp;<a title="Software relicensing" href="https://en.wikipedia.org/wiki/Software_relicensing">relicensed</a>&nbsp;to the&nbsp;<a class="mw-redirect" title="MIT license" href="https://en.wikipedia.org/wiki/MIT_license">MIT license</a>&nbsp;in 2006.&nbsp;At the end of 2006, it was&nbsp;<a class="mw-redirect" title="Dual-license" href="https://en.wikipedia.org/wiki/Dual-license">dual-licensed</a>&nbsp;under&nbsp;<a class="mw-redirect" title="GPL" href="https://en.wikipedia.org/wiki/GPL">GPL</a>&nbsp;and MIT licenses.&nbsp;As this led to some confusion, in 2012 the GPL was dropped and is now only licensed under the MIT license.</p>
 <h3><span id="Popularity" class="mw-headline">Popularity</span></h3>
