@@ -536,5 +536,33 @@
 
 
 </ul>
+</br>
 
+<h2>   Papers </h2>
+
+<ul>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(1).pdf" style="text-decoration:none;">Animating the Web with jQuery</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(2).pdf" style="text-decoration:none;">Developing A Digital Learning Medium Using
+JQuery Mobile For Vocational High School Students </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(3).pdf" style="text-decoration:none;">HideNoSeek: Camouflaging Malicious JavaScript in Benign ASTs</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(4).pdf" style="text-decoration:none;">Performance Comparison and Evaluation of jQuery with AngularJS</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(5).pdf" style="text-decoration:none;">Determinacy in Static Analysis for jQuery</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(6).pdf" style="text-decoration:none;">Which one is better - JavaScript or jQuery</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(7).pdf" style="text-decoration:none;">Detecting JavaScript Races that Matter</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(8).pdf" style="text-decoration:none;"> Thou Shalt Not Depend on Me: Analysing the Use of Outdated JavaScript Libraries on the Web</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(9).pdf" style="text-decoration:none;">Broken External Links on Stack Overflow</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(10).pdf" style="text-decoration:none;">Development of a Secure and Private Electronic Procurement System based on Blockchain Implementation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(11).pdf" style="text-decoration:none;"> Pirus: A Web Based File Hosting Service with Object Oriented Logic in Cloud Computing</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(12).pdf" style="text-decoration:none;">C-PASS-PC: A Cloud-driven Prototype of Multi-Center Proactive Surveillance System for Prostate Cancer</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(13).pdf" style="text-decoration:none;">Precise and Scalable Static Analysis of jQuery using a Regular Expression Domain</a></li> 
+</ul>
 
