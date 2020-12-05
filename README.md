@@ -431,7 +431,7 @@
 <p><a title="QUnit" href="https://en.wikipedia.org/wiki/QUnit">QUnit</a>&nbsp;is a&nbsp;<a class="mw-redirect" title="Test automation framework" href="https://en.wikipedia.org/wiki/Test_automation_framework">test automation framework</a>&nbsp;used to test the jQuery project. The jQuery team developed it as an in-house unit testing library.&nbsp;The jQuery team uses it to test its code and plugins, but it can test any generic JavaScript code, including server-side JavaScript code.</p>
 <p>As of 2011, the jQuery Testing Team uses&nbsp;<a title="QUnit" href="https://en.wikipedia.org/wiki/QUnit">QUnit</a>&nbsp;with&nbsp;<a class="new" title="TestSwarm (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=TestSwarm&amp;action=edit&amp;redlink=1">TestSwarm</a>&nbsp;to test each jQuery codebase release.</p>
 </br>
-
+<h2> jQuery Examples </h2>
 
 <h3>Example</h3>
   
