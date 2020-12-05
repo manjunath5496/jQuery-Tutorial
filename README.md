@@ -432,6 +432,49 @@
 <p>As of 2011, the jQuery Testing Team uses&nbsp;<a title="QUnit" href="https://en.wikipedia.org/wiki/QUnit">QUnit</a>&nbsp;with&nbsp;<a class="new" title="TestSwarm (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=TestSwarm&amp;action=edit&amp;redlink=1">TestSwarm</a>&nbsp;to test each jQuery codebase release.</p>
 </br>
 
+
+<h3>Example</h3>
+  
+```jquery language
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("#hide").click(function(){
+    $("p").hide();
+  });
+  $("#show").click(function(){
+    $("p").show();
+  });
+});
+</script>
+</head>
+<body>
+
+<p>If you click on the "Hide" button, I will disappear.</p>
+
+<button id="hide">Hide</button>
+<button id="show">Show</button>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/jq/1.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
+
+
+
+
+
+
+
+
 <h2 id ="Books">Books </h2>
 <ul>
  <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/jqu(6).pdf" style="text-decoration:none;">A Smarter Way to Learn JavaScript: The new approach that uses technology to cut your effort in half</a></li>
